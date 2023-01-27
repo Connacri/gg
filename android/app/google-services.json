@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "981347749568",
+    "project_id": "adventure-eb4ca",
+    "storage_bucket": "adventure-eb4ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:981347749568:android:982ab52aac968ea360e725",
+        "android_client_info": {
+          "package_name": "com.adventure.gg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "981347749568-lpdufpduefivnoqprcqbu84fvs2reqgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.adventure.gg",
+            "certificate_hash": "581f74c40577c2627786a69d59090f6ef821aa3b"
+          }
+        },
+        {
+          "client_id": "981347749568-l0sjpfn7lb5399ch700hgl5d63ntpbbe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgD7RqbZDVRPyQEBts5m-GtRcdnXrRjNU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "981347749568-l0sjpfn7lb5399ch700hgl5d63ntpbbe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
